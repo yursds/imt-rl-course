@@ -11,6 +11,8 @@ This repository contains all assignments and resources for the **Reinforcement L
 ```bash
 .
 ├── assign_*-*.[ipynb|html]       # Assignment notebooks
+├── assign-pdf                    # Assignment texts
+│   └── ...   
 ├── img/                          # Figures 
 │   ├── assign-1/                 
 │   ├── assign-2/                 
