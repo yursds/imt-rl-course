@@ -1,0 +1,22 @@
+[project]
+name = "yuri"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dm-haiku>=0.0.13",
+    "gymnasium[other,toy-text]>=1.0.0",
+    "ipympl>=0.9.6",
+    "ipynb>=0.5.1",
+    "jax[cuda12]>=0.5.0",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.3.5",
+    "matplotlib>=3.10.0",
+    "plotly>=6.0.0",
+    "pyqt5>=5.15.11",
+    "tensorboard>=2.18.0",
+    "tensorflow>=2.18.0",
+    "torch>=2.6.0",
+    "tqdm>=4.67.1",
+]
