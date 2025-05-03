@@ -104,9 +104,3 @@ Contributions are welcome! To add/fix content:
    ```
 
 ---
-
-
-## 📧 Contact
-
-For issues:
-- **GitHub Issues**: [Open an Issue](https://github.com/your-username/assignments-imt-rl/issues)
