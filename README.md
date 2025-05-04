@@ -76,11 +76,7 @@ jupyter notebook
 - **Example**: `assign-1/1-a.png` shows the policy evaluation results for Assignment 1.
 
 ### `saved_models/`
-- **Usage**: Load pre-trained models to skip training:
-  ```python
-  import numpy as np
-  params = np.load('saved_models/3/model_params_DQN.npz')
-  ```
+- **Usage**: pre-trained models to skip training.
 
 ### `video/`
 - **Content**: Recordings of agent behavior during training/testing.
