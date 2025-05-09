@@ -2,8 +2,8 @@
 
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter)
 
-This repository contains all assignments and resources for the **Reinforcement Learning (RL) course** at IMT Lucca, helded by Mario Zanon. It includes implementations of core RL algorithms, training videos, pre-trained models, and Jupyter notebooks with explanations.
-
+This repository contains all assignments and resources for the **Reinforcement Learning (RL) course** at IMT Lucca, held by Mario Zanon. It includes implementations of core RL algorithms, training videos, pre-trained models, and Jupyter notebooks with explanations.  
+The code is not optimized for efficiency, and many lines are repeated, but I suppose that is useful for a simpler understanding of how to begin to approach the problem.
 ---
 
 ## 📂 Repository Structure
