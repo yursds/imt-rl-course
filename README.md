@@ -1,4 +1,4 @@
-# 🎮 IMT Reinforcement Learning Course Repository
+# IMT Reinforcement Learning Course Repository
 
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter)
 
@@ -7,7 +7,7 @@ This repository contains all assignments and resources for the **Reinforcement L
 The code is not optimized for efficiency, and many lines are repeated, but I suppose that is useful for a simpler understanding of how to begin to approach the problem.
 **Achtung**: Some bugs may be present.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 .
@@ -29,7 +29,7 @@ The code is not optimized for efficiency, and many lines are repeated, but I sup
 
 ---
 
-## 🚀 Assignments
+## Assignments
 
 | Assignment | Topics |
 |------------|--------|
@@ -45,7 +45,7 @@ The code is not optimized for efficiency, and many lines are repeated, but I sup
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -70,7 +70,7 @@ jupyter notebook
 
 ---
 
-## 🖼️ Key Directories
+## Key Directories
 
 ### `img/`
 - **Purpose**: Stores plots and diagrams for reports.
